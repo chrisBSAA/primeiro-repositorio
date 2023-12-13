@@ -1,36 +1,35 @@
-*body {
-   
+body {
+    
 }
 
 .titulo-principal {
     padding-left: 25px;
-    
 }
 
-img{
+img {
     width: 100%;
 }
 
 .principal {
-    background:#CCCCCC;
+    background: #CCCCCC;
     padding: 30px;
 }
 
-h2{
+h2 {
     text-align: center;
 }
 
-p{
+p {
     text-align: center;
 }
 
-em strong{
+em strong {
     color: red;
 }
 
-#missao{
+#missao {
     font-size: 20px;
-}    
+}
 
 .beneficios {
     background: #FFFFFF;
@@ -46,7 +45,7 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-}   
+}
 
 .itens {
     font-style: italic;
